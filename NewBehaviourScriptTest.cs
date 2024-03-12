@@ -7,6 +7,8 @@ using TMPro;
 
 
 // GIT
+// testbranch 실험적인 내용 추가
+
 public class TextScriptPractice004 : MonoBehaviour
 {
     public Text TextLegacy;
