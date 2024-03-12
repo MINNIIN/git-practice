@@ -7,7 +7,7 @@ using TMPro;
 
 
 // GIT
-// testbranch 실험적인 내용 추가
+// testbranch 실험적인 내용 추가 + version 2
 
 public class TextScriptPractice004 : MonoBehaviour
 {
