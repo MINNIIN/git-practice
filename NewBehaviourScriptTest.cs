@@ -5,6 +5,8 @@ using Newtonsoft.Json;
 using UnityEngine.UI;
 using TMPro;
 
+
+// GIT
 public class TextScriptPractice004 : MonoBehaviour
 {
     public Text TextLegacy;
